@@ -1,0 +1,8 @@
+Alguns registos das operações básicas, decoráveis, com função GIT
+
+PASSO-A-PASSO
+
+1. Aonde está o o código que será alterado/modificado/melhorado.
+	realizar download se estiver no servidor.
+		git clone [url]
+no exemplo eu tenho uma pasta inicial (livro de Receitas)

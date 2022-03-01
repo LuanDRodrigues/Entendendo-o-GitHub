@@ -2,6 +2,6 @@
 
 **Este repositório tem como objetivo fixar a dinâmica do Git/GitHub.**
 
-Se encontrar algo estranho, não ache estraho, aqui você encontrará coisas estranhas, porém tudo é aprendizado.
+Se encontrar algo estranho, não ache estraho, porém tudo é aprendizado.
 Obrigado pela Visita!
 Abaços.
